@@ -1,6 +1,5 @@
-# Homework5
+# Homework5 pngs of matplotllib and seaborn scatterplots of weather data
 
-pngs of scatterplots:
 ![lat v cloudy 1 matplotlib](https://user-images.githubusercontent.com/91164907/138489622-59b037dc-6573-40f7-bcbe-57ba6c6a5616.png)
 ![lat v hi temp matplotlib](https://user-images.githubusercontent.com/91164907/138489623-788ced01-f305-4f1d-9130-4648aba92760.png)
 ![lat v humidity matplotlib](https://user-images.githubusercontent.com/91164907/138489625-52b6e57c-0c65-4679-b907-91dd05d1c30e.png)
